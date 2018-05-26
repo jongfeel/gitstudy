@@ -14,3 +14,9 @@ for (int i=0; i < 10; i++)
 - Local repository
 - Remote repository
 
+## Command
+- git init
+- git add
+- git commit
+- git log
+
